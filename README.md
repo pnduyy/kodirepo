@@ -1,2 +1,2 @@
-# kodirepo.github.io
+# kodirepo
 Tong hop repo cài cho kodi
